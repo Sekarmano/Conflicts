@@ -9,7 +9,8 @@ public class CloneConflict {
 		}
 	public void click() {
 		System.out.println("Click login button");
-		System.out.println("All workis done");
+System.out.println("Hello guys");
+		System.out.println("All works done");
 
 	}
 

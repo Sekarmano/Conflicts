@@ -4,13 +4,16 @@ public class CloneConflict {
 	public void loginId() {
 		System.out.println("manoj@95");	
 		}
-	private void password() {
+	public void password() {
 		System.out.println("123456789");
 		}
-	private void click() {
+	public void click() {
 		System.out.println("Click login button");
+		System.out.println("All workis done");
 
 	}
+
+	
 
 	
 
